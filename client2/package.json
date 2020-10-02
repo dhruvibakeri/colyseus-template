@@ -1,0 +1,19 @@
+{
+  "name": "client2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colyseus.js": "^0.13.2"
+  },
+
+
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+    "start:frontend": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
